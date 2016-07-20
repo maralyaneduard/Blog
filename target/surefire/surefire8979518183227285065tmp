@@ -1,0 +1,6 @@
+#surefire
+#Tue Jul 19 17:59:14 AMT 2016
+maven.ext.class.path=/home/eduardm/Documents/netbeans/netbeans-8.1/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/home/eduardm/NetBeansProjects/blog
+localRepository=/home/eduardm/.m2/repository
+basedir=/home/eduardm/NetBeansProjects/blog
